@@ -9,17 +9,17 @@
 
 ## Introdução
 
-Neste projeto, demonstramos como utilizar a *Data Science* em um projeto de *Drug Discovery*. Utilizaremos os dados de Solubilidade (experimental e predita) do trabalho de pesquisa de Delaney, prevendo a solubilidade de moléculas utilizando **Python** e as bibliotecas **scikit-learn**, **rdkit** e **pandas**.
+Neste projeto, demonstramos como utilizar *Data Science* em um projeto de *Drug Discovery*. Utilizaremos os dados de Solubilidade (experimental e predita) do trabalho de pesquisa de Delaney, prevendo a solubilidade de moléculas utilizando **Python** e as bibliotecas **scikit-learn**, **rdkit** e **pandas**.
 
 ### Data Science vs Predição de Solubilidade
 
-A Ciência de Dados (Data Science) representa uma disciplina interdisciplinar que combina conhecimentos de estatística, programação e domínio específico para extrair insights valiosos a partir de dados complexos. Nesse contexto, a predição de solubilidade de pequenas moléculas emerge como uma aplicação crucial da Data Science no campo da química e da biologia molecular.
+A Ciência de Dados (*Data Science*) representa uma disciplina interdisciplinar que combina conhecimentos de estatística, programação e domínio específico para extrair *insights* valiosos a partir de dados complexos. Nesse contexto, a predição de solubilidade de pequenas moléculas é uma ferramenta muito útil no processo de busca de novas entidades químicas e no desenvolvimento de fármacos.
 
-A solubilidade de uma molécula em um solvente é uma propriedade fundamental que influencia diretamente sua aplicabilidade em diversos setores, como farmacêutico, agrícola e de materiais. A capacidade de prever com precisão a solubilidade de pequenas moléculas desempenha um papel essencial no desenvolvimento de novos fármacos, na otimização de processos industriais e na compreensão mais profunda das interações moleculares.
+A solubilidade de uma molécula em um solvente é uma propriedade fundamental que influencia diretamente sua aplicabilidade em diversos setores, como farmacêutico, agrícola e de materiais. A capacidade de prever com precisão a solubilidade de pequenas moléculas contribui desde o desenvolvimento de novos fármacos, na otimização de processos industriais e na compreensão mais profunda das interações moleculares.
 
-A abordagem baseada em Data Science para a predição de solubilidade envolve a utilização de algoritmos de aprendizado de máquina, modelagem estatística avançada e análise de grandes conjuntos de dados. Ao explorar padrões e correlações nos dados moleculares, os cientistas de dados podem desenvolver modelos preditivos robustos, proporcionando uma compreensão mais precisa e eficiente da solubilidade de compostos químicos.
+A abordagem baseada em *Data Science* envolve a utilização de algoritmos de aprendizado de máquina (*Machine Learning*), modelagem estatística avançada e análise de grandes conjuntos de dados. Ao explorar padrões e correlações nos dados moleculares, os cientistas de dados podem desenvolver modelos preditivos robustos, proporcionando uma compreensão mais precisa e eficiente da solubilidade de compostos químicos.
 
-Esta junção entre Data Science e predição de solubilidade destaca a capacidade transformadora da análise de dados na pesquisa química, abrindo novas perspectivas para a inovação e descoberta científica. Este campo interdisciplinar exemplifica como a aplicação inteligente de técnicas de Data Science pode revolucionar a forma como abordamos desafios complexos no âmbito molecular, contribuindo significativamente para avanços científicos e tecnológicos.
+Este campo interdisciplinar exemplifica como a aplicação inteligente de técnicas de *Data Science* pode revolucionar a forma como abordamos desafios complexos no âmbito molecular, contribuindo significativamente para avanços científicos e tecnológicos.
 
 ## Objetivo
 
